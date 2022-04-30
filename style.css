@@ -1,0 +1,31 @@
+.container{
+font-family:Georgia, 'Times New Roman', Times, serif;  
+max-width: 300px;
+margin: auto;
+background-color:rgb(253, 56, 96);
+padding: 15px;
+border-radius: 20px;
+}
+/*Alterando a fonte
+  o tamanho do container
+  a margem do container
+  a cor de fundo
+  e o arredondamento das bordas*/
+
+input{
+    display: block;
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 12px;
+}
+/*Modificando os inputs
+  colocando em bloco  
+  alterando o tamanho
+  o espaço entre eles
+  e a margem*/
+
+  body{
+    background-color: rgb(47, 4, 4);
+  }
+  /*modificando a cor de fundo*/
